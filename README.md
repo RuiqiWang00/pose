@@ -12,7 +12,7 @@
   ├── train2017  
   └── val2017   
 ## download imagenet pretrained   
-down from CID   
+download from [CID](https://onedrive.live.com/?authkey=%21AHqcjFP4lObocYY&id=FB912A57B8604A1A%2149041&cid=FB912A57B8604A1A)   
 put it in  
 >./model  
 ## Train Model
