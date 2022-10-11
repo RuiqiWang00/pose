@@ -18,4 +18,4 @@ put it in
 ## Train Model
 >python tools/train.py --cfg experiments/coco.yaml --gpus 0,1
 ## Evaluate Model
->python tools/valid.py --cfg experiments/coco.yaml --gpus 0,1 TEST.MODEL_FILE model/coco/checkpoint.pth.tar
+>python tools/valid.py --cfg experiments/coco-testdev.yaml --gpus 0,1 TEST.MODEL_FILE model/coco/checkpoint.pth.tar
